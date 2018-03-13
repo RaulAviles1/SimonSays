@@ -1,0 +1,13 @@
+.board{
+  align:center;
+  display: block;
+  margin: auto;
+}
+footer{
+  text-align: center;
+  font-size: 24px;
+}
+#SIMON{
+  font-family: Monoton;
+  font-size:38px;
+}
